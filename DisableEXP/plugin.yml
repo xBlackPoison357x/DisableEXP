@@ -1,0 +1,7 @@
+name: DisableEXP
+version: 0.3
+author: lst96
+main: io.github.lst96.DisableEXP.DisableEXP
+commands:
+  disablereload:
+    description: Reloads the configuration file.

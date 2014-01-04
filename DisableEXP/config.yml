@@ -1,0 +1,9 @@
+# Default Configuration generated with DisableEXP v0.3
+EXP:
+  Ore: true
+  Smelt: true
+  Mob: true
+  Fish: true
+  Exp Bottle: true
+autoupdate: true
+check_bukkit_compatibility: false
